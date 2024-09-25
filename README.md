@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MariO Ortega Pérez</h1>
+<h1 align="center">Hi 👋, I'm Mario Ortega Pérez</h1>
 <h3 align="center">A passionate beginner web developer eager to learn and grow in the world of coding!</h3>
 
 - 🌱 I’m currently learning **Different programming languages, API´S, frameworks**
