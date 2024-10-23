@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **mortper0408@ieszaidinvergeles.org**
 
+- Enlace al repositorio de pokemon : https://github.com/Mariortega83/CRUD_PHPpokemon.git
+
 <hr></hr>
 
 <h3 align="left">Connect with me:</h3>
