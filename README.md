@@ -12,6 +12,7 @@
 - Enlace al repositorio de pokemon : https://github.com/Mariortega83/CRUD_PHPpokemon.git
 - Enlace al repositorio de pokemon Laravel: https://github.com/Mariortega83/laravelPokeApp.git
 - Enlace al repositorio de subirArchivos : https://github.com/Mariortega83/subidaDeArchivos.git
+- Enlace a userManagement : git clone https://github.com/Mariortega83/userManagement
 
 <hr></hr>
 
