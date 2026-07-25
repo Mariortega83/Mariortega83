@@ -56,8 +56,6 @@
 
 ---
 
----
-
 <p align="center">
   <i>"Fast code, clean memory, solid algorithms."</i>
 </p>
