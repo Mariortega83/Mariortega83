@@ -56,13 +56,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Mariortega83&show_icons=true&theme=dark&rank_icon=github&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Mariortega83&layout=compact&theme=dark&hide=html,css" width="45%" />
-</p>
-
 ---
 
 <p align="center">
